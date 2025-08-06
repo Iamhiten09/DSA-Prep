@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Iamhiten09/DSA-Solutions/tree/master/1293-three-consecutive-odds) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/Iamhiten09/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
