@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Iamhiten09/DSA-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
