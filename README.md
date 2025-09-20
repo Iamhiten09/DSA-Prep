@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Iamhiten09/DSA-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
